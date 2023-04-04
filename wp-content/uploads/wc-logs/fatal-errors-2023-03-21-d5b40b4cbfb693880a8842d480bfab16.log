@@ -1,0 +1,6 @@
+2023-03-21T17:45:23+00:00 CRITICAL Maximum execution time of 300 seconds exceeded, em C:\xampp\htdocs\projeto-pi\wp-includes\Requests\Transport\cURL.php, na linha 484
+
+2023-03-21T17:45:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\projeto-pi\wp-content\plugins\bookly-responsive-appointment-booking-tool\lib\SessionPHP.php, na linha 208
+
+2023-03-21T18:27:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\projeto-pi\wp-content\plugins\bookly-responsive-appointment-booking-tool\lib\SessionPHP.php, na linha 208
+

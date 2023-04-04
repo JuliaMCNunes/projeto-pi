@@ -1,0 +1,4 @@
+2023-03-27T16:40:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\projeto-pi\wp-content\plugins\elementor\core\role-manager\role-manager-menu-item.php, na linha 7
+
+2023-03-27T16:40:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\projeto-pi\wp-includes\class-wpdb.php, na linha 2187
+
